@@ -1,26 +1,26 @@
 [
     {
-        "role": "owner",
+        "role": "Owner",
         "name": "Pulse [GD]",
         "link": "https://www.youtube.com/@PulseGMD"
     },
     {
-        "role": "admin",
+        "role": "Admin",
         "name": "Nobody yet!",
         "link": "https://www.youtube.com/@NeonPulseGDPS"
     },
     {
-        "role": "helper",
+        "role": "Helper",
         "name": "Nobody yet!",
         "link": "https://www.youtube.com/@NeonPulseGDPS"
     },
     {
-        "role": "trial",
+        "role": "Trial",
         "name": "Nobody yet!",
         "link": "https://www.youtube.com/@NeonPulseGDPS"
     },
     {
-        "role": "dev",
+        "role": "Dev",
         "name": "Nobody yet!",
         "link": "https://www.youtube.com/@NeonPulseGDPS"
     }
