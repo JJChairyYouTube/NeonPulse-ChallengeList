@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Pulse [GD]",
+        "link": "https://www.youtube.com/@PulseGMD"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
     }
 ]
